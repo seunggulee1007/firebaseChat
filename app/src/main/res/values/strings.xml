@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FirebaseChatExam</string>
+    <string name="storage_path">gs://fir-chatexam-4686d.appspot.com</string>
+</resources>
